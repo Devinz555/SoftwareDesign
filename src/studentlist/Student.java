@@ -56,7 +56,7 @@ public class Student
     
     /**
      * a method that returns true if a student
-     * studied and false otherwise.
+     * studied and false otherwise. add a comment
      * @return whether or not the student studied
      */
     public boolean didStudy()
